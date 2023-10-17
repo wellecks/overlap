@@ -35,11 +35,12 @@ Llemma's analysis is saved in the `llemma` branch.
 ### Citation:
 Please cite the following:
 ```
-@article{azerbayev2023llemma,
-    title={Llemma: an open language model for mathematics},
-    author={Zhangir Azerbayev and Hailey Schoelkopf and Keiran Paster and Marco Dos Santos and Stephen McAleer and Albert Q. Jiang and Jia Deng and Stella Biderman and Sean Welleck},
-    eprint={xyz.xyz},
-    archivePrefix={arXiv}
-    year={2023}
+@misc{azerbayev2023llemma,
+      title={Llemma: An Open Language Model For Mathematics}, 
+      author={Zhangir Azerbayev and Hailey Schoelkopf and Keiran Paster and Marco Dos Santos and Stephen McAleer and Albert Q. Jiang and Jia Deng and Stella Biderman and Sean Welleck},
+      year={2023},
+      eprint={2310.10631},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
